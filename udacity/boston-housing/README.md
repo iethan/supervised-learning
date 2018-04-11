@@ -44,3 +44,8 @@ The modified Boston housing dataset consists of 490 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes
+
+
+### Review
+
+Please see /boston_housing.ipynb to review this project
